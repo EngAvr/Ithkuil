@@ -1,2 +1,4 @@
-# Ithkuil_Logogram_ASCii
-Logogram ASCii writing system for Ithkuil
+# Ithkuil Logogram ASCii writing system development
+
+This project is about to take over the world (soon).
+Check the Images, LOL.
