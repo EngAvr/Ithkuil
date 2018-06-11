@@ -1,4 +1,3 @@
-# Ithkuil Logogram ASCii writing system development
+# Ithkuil related projects
 
-This project is about to take over the world (soon).
 Check the Images, LOL.
