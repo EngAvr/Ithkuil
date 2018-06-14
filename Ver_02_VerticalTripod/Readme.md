@@ -5,6 +5,13 @@ Hello, friend.
 <br/>
 <br/>
 
+## Upd from 15 Jun 2018
+
+Various words examples:
+<img src="https://github.com/EngAvr/Ithkuil/blob/master/Ver_02_VerticalTripod/04_Animation.gif?raw=True" width="800">
+
+## Upd from 11 Jun 2018
+
 Simple formative:
 
 <img src="https://github.com/EngAvr/Ithkuil/blob/master/Ver_02_VerticalTripod/01_Small_Word.png?raw=True" width="800">
